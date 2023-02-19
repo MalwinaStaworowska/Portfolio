@@ -46,7 +46,7 @@
 ### **Testing**  
  
 - MrBuggy 3  
-	- Test cases  
+	- [Test cases](TestCases.md)  
 	- Defects
 
 ### **SQL**
