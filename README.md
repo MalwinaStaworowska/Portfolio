@@ -55,7 +55,7 @@
 	- Entity Diagram
 	- Schema Scripts
 	- Exercises
-		- Selects
-		- Joins
+		- [Selects](Selects.md)
+		- [Joins](Joins.md)
 		- Group By
 		- Suspicious Doctor

@@ -268,14 +268,14 @@
 | **Preconditions** | -                                                                                                                                                                |
 | **Test data**     | <ins>username:</ins> "Tester7", <ins>password:</ins> "H@sł1-_", <ins>repeatPassword:</ins> "H@sło," <ins>firstName:</ins> "Jan", <ins>lastName:</ins> "Kowalski" |
 
-| Action                                                       | Expected result                                                |
-|:-------------------------------------------------------------|:---------------------------------------------------------------|
-| 1. Enter <ins>username</ins> in *the Username* field.        | *The Username* field filled.                                   |
-| 2. Enter <ins>password</ins>  in *the Password* field.       | *The Password* field filled.                                   |
-| 3. Enter <ins>password</ins> in *the Repeat password* field. | *The Repeat password* field filled.                            |
-| 4. Enter <ins>firstName</ins> in *the First Name* field.     | *The First Name* field filled.                                 |
-| 5. Enter <ins>lastName</ins> in *the Last Name* field.       | *The Last Name* field filled.                                  |
-| 6. Click *the Register user* button.                         | Appearance of the message *"Entered passwords are different".* |
+| Action                                                             | Expected result                                                |
+|:-------------------------------------------------------------------|:---------------------------------------------------------------|
+| 1. Enter <ins>username</ins> in *the Username* field.              | *The Username* field filled.                                   |
+| 2. Enter <ins>password</ins>  in *the Password* field.             | *The Password* field filled.                                   |
+| 3. Enter <ins>repeatPassword</ins> in *the Repeat password* field. | *The Repeat password* field filled.                            |
+| 4. Enter <ins>firstName</ins> in *the First Name* field.           | *The First Name* field filled.                                 |
+| 5. Enter <ins>lastName</ins> in *the Last Name* field.             | *The Last Name* field filled.                                  |
+| 6. Click *the Register user* button.                               | Appearance of the message *"Entered passwords are different".* |
 
 
 ## Test case 17
