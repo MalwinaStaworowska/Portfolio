@@ -57,5 +57,5 @@
 	- Exercises
 		- [Selects](Selects.md)
 		- [Joins](Joins.md)
-		- [Group By]("Group By.md")
+		- [Group By](Group%20By.md)
 		- Suspicious Doctor
