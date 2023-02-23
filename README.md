@@ -58,4 +58,4 @@
 		- [Selects](Selects.md)
 		- [Joins](Joins.md)
 		- [Group By](Group%20By.md)
-		- Suspicious Doctor
+		- [Suspicious Doctor](Suspicious%20Doctor.md)
