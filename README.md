@@ -53,7 +53,7 @@
 
 - Project My hospital app
 	- Entity Diagram
-	- [Schema Scripts](Create_database.sql)
+	- [Schema Scripts](SchemaScripts)
 	- Exercises
 		- [Selects](Selects.md)
 		- [Joins](Joins.md)
