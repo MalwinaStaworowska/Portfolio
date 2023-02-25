@@ -53,7 +53,7 @@
 
 - Project My hospital app
 	- Entity Diagram
-	- Schema Scripts
+	- [Schema Scripts](Create_databade.sql)
 	- Exercises
 		- [Selects](Selects.md)
 		- [Joins](Joins.md)
