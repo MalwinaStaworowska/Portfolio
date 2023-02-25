@@ -52,7 +52,7 @@
 ### **SQL**
 
 - Project My hospital app
-	- Entity Diagram
+	- [Entity Diagram](DiagramEncji.png)
 	- [Schema Scripts](SchemaScripts)
 	- Exercises
 		- [Selects](Selects.md)
