@@ -35,7 +35,6 @@
 ## Other sources of knowledge  
 
 - <a href="https://pwicherski.gitbook.io/testowanie-oprogramowania/" target="_blank">Testowanie oprogramowania - Piotr Wicherski</a>
-- [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 - <a href="https://www.guru99.com/software-testing.html" target="_blank">guru99.com</a>  
 - <a href="https://testerzy.pl/" target="_blank">testerzy.pl</a>  
 - Sylabus ISTQB® Poziomu Podstawowego  
