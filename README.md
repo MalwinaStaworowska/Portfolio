@@ -11,6 +11,12 @@
 
 ## About me
 
+Nazywam się Malwina Staworowska. Z wykształcenia jestem pielęgniarką, ale to testowanie skradło moje serce. Z racji, że towarzyszy mi od dawna, zarówno komercyjnie jak i hobbystycznie, to
+postanowiłam w całości poświęcić się mu i rozwijać w tej dziedzinie. Za pomocą tego repozytorium chciałabym pokazać jak wygląda moja praca i nauka, aby zostać testerem oprogramowania.
+
+
+My name is Malwina Staworowska. I am a nurse by education, but this testing stole my heart. Because testing has been with me for a long time, both commercially and as a hobby,
+I decided to devote myself entirely to it and develop in this field. With this repository, I would like to show what my work and study look like to become a software tester.
 
 ## Tech skills
 
