@@ -29,15 +29,14 @@
 
 ## Books
 
-- <a href="https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e" target="_blank">Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin</a>  
-- <a href="https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d" target="_blank">Pasja testowania - Krzysztof Jadczyk</a> 
+- [Zawód tester. Od decyzji do zdobycia doświadczenia - Radosław Smilgin](https://helion.pl/ksiazki/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-radoslaw-smilgin,e_0vj2.htm#format/e)
+- [Pasja testowania - Krzysztof Jadczyk](https://helion.pl/ksiazki/pasja-testowania-wydanie-ii-rozszerzone-krzysztof-jadczyk,paste2.htm#format/d)
 
 ## Other sources of knowledge  
 
-- <a href="https://pwicherski.gitbook.io/testowanie-oprogramowania/" target="_blank">Testowanie oprogramowania - Piotr Wicherski</a>
 - [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-- <a href="https://www.guru99.com/software-testing.html" target="_blank">guru99.com</a>  
-- <a href="https://testerzy.pl/" target="_blank">testerzy.pl</a>  
+- [guru99.com](https://www.guru99.com/software-testing.html)
+- [testerzy.pl](https://testerzy.pl)
 - Sylabus ISTQB® Poziomu Podstawowego  
 - Testowanie oprogramowania - group on Facebook  
 - #TestowaŚroda - mailing from Bartek Kita
