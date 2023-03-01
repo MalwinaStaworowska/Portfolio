@@ -1,18 +1,8 @@
+CREATE DATABASE my_hospital_app;
+GO
+
 USE my_hospital_app;
-DROP TABLE prescription_medicine;
-DROP TABLE prescription;
-DROP TABLE medicine;
-DROP TABLE medicine_manufacturer;
-DROP TABLE patient_ekg_data;
-DROP TABLE patient_eeg_data;
-DROP TABLE patient_clinic_record;
-DROP TABLE person_clinic_role;
-DROP TABLE person;
-DROP TABLE role;
-DROP TABLE clinic;
-DROP TABLE country_language;
-DROP TABLE language;
-DROP TABLE country;
+GO
 
 CREATE TABLE country (
 	id int NOT NULL IDENTITY(0,1) PRIMARY KEY,
