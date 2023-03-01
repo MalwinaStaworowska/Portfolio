@@ -11,13 +11,13 @@
 
 ## About me
 
-Nazywam się Malwina Staworowska. Z wykształcenia jestem pielęgniarką, ale to testowanie skradło moje serce. Z racji, że towarzyszy mi od dawna, zarówno komercyjnie jak i hobbystycznie, to
-postanowiłam w całości poświęcić się mu i rozwijać w tej dziedzinie. Za pomocą tego repozytorium chciałabym pokazać jak wygląda moja praca i nauka, aby zostać testerem oprogramowania.
+My name is Malwina Staworowska. I am a qualified nurse, but software testing is with me for a long time, both commercially (freelancing) and as a hobby, and I would like to explore it more. This repository is a showcase of my work and studies up to this day.
 
+I am a fast learner and team player. In my previous job, I was responsible for a team and resource management, so I had a chance to gain experience in working as a team and I liked it.
 
-My name is Malwina Staworowska. I am a nurse by education, but this testing stole my heart. Because testing has been with me for a long time, both commercially and as a hobby,
-I decided to devote myself entirely to it and develop in this field. With this repository, I would like to show what my work and study look like to become a software tester.
+In my spare time, I was working on learning to design test cases and report defects based on these test cases, SQL queries, using Git, theory from ISTQB (and other sources), and more (check out below).
 
+I would like to learn more and I know that the best way to do this is by hard work!
 ## Tech skills
 
 - SQL   
