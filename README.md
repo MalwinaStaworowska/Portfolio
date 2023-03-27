@@ -30,7 +30,7 @@ I would like to learn more and I know that the best way to do this is by hard wo
 ## Tools
 
 - Microsoft SQL Server Management Studio  
-- Git
+- Git (commit, push, pull, merge, resolve merge conflicts, gitignore, checkout)
 - GitHub
 
 ## Books
