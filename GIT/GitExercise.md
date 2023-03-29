@@ -1,6 +1,7 @@
 # Rozwiązywanie konfliktów:
 
-### 1. stwórz plik: "conflict_challenge.txt" wypełnij go "lorem ipsum" na 1000 słów i wypchnij go na główny branch.
+### 1. Create the file: "conflict_challenge.txt", fill it with 1000 words of "lorem ipsum" and push it to the main branch.
+
 
 ![](Images/1a.JPG)
 
@@ -10,7 +11,7 @@
 
 ![](Images/1d.JPG)
 
-### 2. zrób 2 nowe branche: conflict_1 i conflict_2
+### 2. Create 2 new branches: conflict_1 and conflict_2.
 
 ![](Images/2a.jpg)
 
@@ -24,19 +25,19 @@
 
 ![](Images/2e.JPG)
 
-### 3. przejdź na branch conflict_1
+### 3. Checkout conflict_1 branch.
 
 ![](Images/3a.jpg)
 
 ![](Images/3b.JPG)
 
-### 4. zamień treść pliku na pierwsze 8 akapitów z: https://literat.ug.edu.pl/dziady/003
+### 4. Replace the content of the file with the first 8 paragraphs from: https://literat.ug.edu.pl/dziady/003.
 
 ![](Images/4a.JPG)
 
 ![](Images/4b.JPG)
 
-### 5. wypchnij zmiany (na ten sam branch)
+### 5. Push the changes (to the same branch).
 
 ![](Images/5a.jpg)
 
@@ -44,19 +45,19 @@
 
 ![](Images/5c.JPG)
 
-### 6. przejdź na branch conflict_2
+### 6. Checkout conflict_2 branch.
 
 ![](Images/6a.jpg)
 
 ![](Images/6b.JPG)
 
-### 7. zrób to samo co w punkcie 4., ale po angielsku
+### 7. Do the same as in step 4, but in English.
 
 ![](Images/7a.JPG)
 
 ![](Images/7b.JPG)
 
-### 8. wypchnij zmiany
+### 8. Push the changes.
 
 ![](Images/8a.jpg)
 
@@ -64,7 +65,7 @@
 
 ![](Images/8c.JPG)
 
-### 9. domerguj zmiany z brancha conflict_1 do conflict_2 i rozwiąż konflikty
+### 9. Merge the changes from conflict_1 branch to conflict_2 and resolve conflicts.
 
 ![](Images/9a.jpg)
 
@@ -84,7 +85,7 @@
 
 ![](Images/9i.JPG)
 
-### 10. wypchnij rozwiązane konflikty na branchu conflict_2
+### 10. Push the resolved conflicts to conflict_2 branch.
 
 ![](Images/10a.jpg)
 
@@ -92,7 +93,7 @@
 
 ![](Images/10c.JPG)
 
-### 11. domergeuj branch conflict_2 do brancha conflict_1
+### 11. Merge conflict_2 branch to conflict_1 branch.
 
 ![](Images/11a.jpg)
 
@@ -102,7 +103,7 @@
 
 ![](Images/11d.jpg)
 
-### 12. wypchnij branch conflict_1
+### 12. Push conflict_1 branch.
 
 ![](Images/12a.jpg)
 
@@ -110,7 +111,7 @@
 
 ![](Images/12c.JPG)
 
-### 13. skasuj branch conflict_2
+### 13. Delete conflict_2 branch.
 
 ![](Images/13a.jpg)
 
