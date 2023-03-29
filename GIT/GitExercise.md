@@ -1,4 +1,4 @@
-# Rozwiązywanie konfliktów:
+# Resolving Git conflicts:
 
 ### 1. Create the file: "conflict_challenge.txt", fill it with 1000 words of "lorem ipsum" and push it to the main branch.
 
