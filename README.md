@@ -8,6 +8,7 @@
 - [Examples of my work](#Examples-of-my-work)
 	- [Testing](#Testing)  
 	- [SQL](#SQL)
+    - [Git](#Git)
 
 ## About me
 
@@ -65,3 +66,7 @@ I would like to learn more and I know that the best way to do this is by hard wo
 		- [Joins](Joins.md)
 		- [Group By](Group%20By.md)
 		- [Suspicious Doctor](Suspicious%20Doctor.md)
+
+### **Git**
+
+- [Git exercises](GIT/GitExercises.md)
