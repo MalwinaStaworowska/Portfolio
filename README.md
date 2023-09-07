@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 - [About me](#About-me)
-- [Tech skills](#Tech-skills)
+- [Tech skills](#Skills)
 - [Tools](#Tools)
 - [Books](#Books)
 - [Other sources of knowledge](#Other-sources-of-knowledge)
@@ -12,27 +12,28 @@
 
 ## About me
 
-My name is Malwina Staworowska. I am a qualified nurse, but software testing is with me for a long time, both commercially (freelancing) and as a hobby, and I would like to explore it more. This repository is a showcase of my work and studies up to this day.
+Software testing is with me for a long time, both commercially (freelancing) and as a hobby, and I would like to explore it more.
 
-I am a fast learner and team player. In my previous job, I was responsible for a team and resource management, so I had a chance to gain experience in working as a team and I liked it.
+I am a fast learner and team player. In my previous job as Dental Assistant, I was responsible for a team and resource management, so I had a chance to gain experience in working as a team. I liked it, and I would like to improve these skills and learn a lot of new ones in the field of Software Development.
 
-In my spare time, I was working on learning to design test cases and report defects based on these test cases, SQL queries, using Git, theory from ISTQB (and other sources), and more (check out below).
+In my spare time, I am learning software development and testing with experienced mentors and online sources.
 
-I would like to learn more and I know that the best way to do this is by hard work!
-## Tech skills
+## Skills
 
-- SQL   
+- ISTQB syllabus
+- Creating test cases
+- Manual testing
+- Reporting defects
+- SQL
+- Git
 - Markdown
-- Software testing  
-- Creating test cases  
-- Reporting bugs
-- SCRUM
 
 ## Tools
 
 - Microsoft SQL Server Management Studio  
-- Git (commit, push, pull, merge, resolve merge conflicts, gitignore, checkout)
+- Git Extensions (commit, push, pull, merge, resolve merge conflicts, gitignore, checkout)
 - GitHub
+- Jira with QAlity plugin
 
 ## Books
 
@@ -44,7 +45,7 @@ I would like to learn more and I know that the best way to do this is by hard wo
 - [Testowanie oprogramowania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 - [guru99.com](https://www.guru99.com/software-testing.html)
 - [testerzy.pl](https://testerzy.pl)
-- Sylabus ISTQB® Poziomu Podstawowego  
+- Syllabus ISTQB® Foundation Level 
 - Testowanie oprogramowania - group on Facebook  
 - #TestowaŚroda - mailing from Bartek Kita
 
