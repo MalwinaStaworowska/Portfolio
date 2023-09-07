@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 - [About me](#About-me)
-- [Tech skills](#Skills)
+- [Skills](#Skills)
 - [Tools](#Tools)
 - [Books](#Books)
 - [Other sources of knowledge](#Other-sources-of-knowledge)
